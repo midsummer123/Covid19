@@ -8,7 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[models](https://midsummer123.github.io/Covid19/test) [map](https://midsummer123.github.io/Covid19/map)
+[models](https://midsummer123.github.io/Covid19/models) [map](https://midsummer123.github.io/Covid19/map)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
